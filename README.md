@@ -1,3 +1,3 @@
 # Black-OS
 
-Sample .iso with bootloader. Bootable in Virtualbox.
+`Sample .iso with bootloader. Bootable in Virtualbox.`
