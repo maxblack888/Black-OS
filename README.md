@@ -5,4 +5,4 @@
 
 ![Demo](ScreenRecording2019-07-12at3.gif)
 
-`Above is the Concept UI Demo in Figma.`
+`Above is the Concept UI Demo in Figma. All images are properties of their respective owners.`
