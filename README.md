@@ -1,6 +1,6 @@
 # Black-OS
 
-This repository contains sample .iso with bootloader and OS UI design in Figma for OS Black. Bootable in Virtualbox.
+This repository contains sample .iso with bootloader and UI design in Figma for OS Black. Bootable in Virtualbox.
 
 
 ![Demo](ScreenRecording2019-07-12at3.gif)
