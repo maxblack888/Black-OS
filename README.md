@@ -1,6 +1,6 @@
 # Black-OS
 
-Sample .iso with bootloader. Bootable in Virtualbox.
+Sample .iso with bootloader and OS UI design in Figma. Bootable in Virtualbox.
 
 
 ![Demo](ScreenRecording2019-07-12at3.gif)
