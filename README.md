@@ -7,4 +7,6 @@ This repository contains sample .iso with bootloader and UI design in Figma for 
 
 Above is the UI Demo. All images are properties of their respective owners.
 
-Read related paper here: https://www.ijser.org/onlineResearchPaperViewer.aspx?Applications-of-Synthetic-Super-Intelligence.pdf
+Read related paper here: 
+
+https://www.ijser.org/onlineResearchPaperViewer.aspx?Applications-of-Synthetic-Super-Intelligence.pdf
